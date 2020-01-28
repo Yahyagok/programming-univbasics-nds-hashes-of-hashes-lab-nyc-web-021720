@@ -63,7 +63,6 @@ def naming_system
 #   PORTION_4
 # }
   
-hash
   
 end
 

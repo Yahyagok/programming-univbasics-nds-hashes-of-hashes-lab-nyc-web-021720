@@ -75,7 +75,6 @@ end
 
 
 
-hash = {
 
  {
   label: "Kingdom",
